@@ -1,3 +1,6 @@
+## This is a cloned repo from Free Code Camp
+### It focuses on using Cloudinary
+
 # Photo Library Starter
 
 Hey freeCodeCamp 👋 this is your starting point for digging into building your own Photo Library using Next.js and Cloudinary.
